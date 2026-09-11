@@ -1,2 +1,3 @@
 # AI-SOC-Analyst-Dashboard
-The AI SOC Analyst is a Streamlit-based security dashboard designed to streamline and automate the incident investigation workflow for cybersecurity teams
+The AI SOC Analyst is a Streamlit-based security dashboard designed to streamline and automate the incident investigation workflow for cybersecurity teams. Daily, SOC analysts spend hours manually sifting through thousands of raw, unstructured security logs. Our solution automatically parses logs to extract key Indicators of Compromise (IOCs)—such as malicious IP addresses, domain names, file hashes, and emails—and leverages Generative AI to generate real-time severity scores, threat timelines, and MITRE ATT&CK framework mappings. By keeping a human-in-the-loop design, the dashboard provides clear, actionable response recommendations while leaving final approval to the security analyst, drastically reducing response time without sacrificing control.
+
